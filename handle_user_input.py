@@ -22,4 +22,3 @@ print average_rating[:4]
 
 # Discussion Question
 #it is invalid because Python doesn't do replacement. Strings are immutable.
-
